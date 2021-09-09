@@ -1,0 +1,58 @@
+/* .grid {
+  width: 600px;
+  height: 600px;
+} */
+/* canvas {
+  background: #eee;
+} */
+/* * {
+  box-sizing: border-box;
+  font-family: "Bowlby One SC", cursive;
+  font-size: 1.2rem;
+  color: #caa8f5;
+} */
+
+/* body {
+  background: #230c33;
+  color: white;
+}
+
+#canvas {
+  background: #caa8f5;
+  border-radius: 5px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #9984d4;
+} */
+
+.grid {
+  position: absolute;
+  width: 560px;
+  height: 300px;
+  border: solid 1px black;
+  margin-top: 100px;
+}
+
+.user {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background-color: blueviolet;
+}
+
+.block {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background-color: blue;
+}
+
+.ball {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: red;
+}

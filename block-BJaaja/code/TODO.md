@@ -14,6 +14,7 @@ var count = 1;
 if (true) {
   count += 1;
 }
+//bad practice
 
 let count = 1;
 if (true) {
